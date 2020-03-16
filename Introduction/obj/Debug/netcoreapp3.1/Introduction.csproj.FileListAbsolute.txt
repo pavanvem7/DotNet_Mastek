@@ -1,0 +1,10 @@
+/Users/pavanvemula/Documents/Mastek_Course/Introduction/bin/Debug/netcoreapp3.1/Introduction.deps.json
+/Users/pavanvemula/Documents/Mastek_Course/Introduction/bin/Debug/netcoreapp3.1/Introduction.runtimeconfig.json
+/Users/pavanvemula/Documents/Mastek_Course/Introduction/bin/Debug/netcoreapp3.1/Introduction.runtimeconfig.dev.json
+/Users/pavanvemula/Documents/Mastek_Course/Introduction/bin/Debug/netcoreapp3.1/Introduction.dll
+/Users/pavanvemula/Documents/Mastek_Course/Introduction/bin/Debug/netcoreapp3.1/Introduction.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Introduction/obj/Debug/netcoreapp3.1/Introduction.csprojAssemblyReference.cache
+/Users/pavanvemula/Documents/Mastek_Course/Introduction/obj/Debug/netcoreapp3.1/Introduction.AssemblyInfoInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Introduction/obj/Debug/netcoreapp3.1/Introduction.AssemblyInfo.cs
+/Users/pavanvemula/Documents/Mastek_Course/Introduction/obj/Debug/netcoreapp3.1/Introduction.dll
+/Users/pavanvemula/Documents/Mastek_Course/Introduction/obj/Debug/netcoreapp3.1/Introduction.pdb
