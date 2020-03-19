@@ -1,0 +1,10 @@
+/Users/pavanvemula/Documents/Mastek_Course/Read_and_Write/bin/Debug/netcoreapp3.1/Read_and_Write.deps.json
+/Users/pavanvemula/Documents/Mastek_Course/Read_and_Write/bin/Debug/netcoreapp3.1/Read_and_Write.runtimeconfig.json
+/Users/pavanvemula/Documents/Mastek_Course/Read_and_Write/bin/Debug/netcoreapp3.1/Read_and_Write.runtimeconfig.dev.json
+/Users/pavanvemula/Documents/Mastek_Course/Read_and_Write/bin/Debug/netcoreapp3.1/Read_and_Write.dll
+/Users/pavanvemula/Documents/Mastek_Course/Read_and_Write/bin/Debug/netcoreapp3.1/Read_and_Write.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Read_and_Write/obj/Debug/netcoreapp3.1/Read_and_Write.csprojAssemblyReference.cache
+/Users/pavanvemula/Documents/Mastek_Course/Read_and_Write/obj/Debug/netcoreapp3.1/Read_and_Write.AssemblyInfoInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Read_and_Write/obj/Debug/netcoreapp3.1/Read_and_Write.AssemblyInfo.cs
+/Users/pavanvemula/Documents/Mastek_Course/Read_and_Write/obj/Debug/netcoreapp3.1/Read_and_Write.dll
+/Users/pavanvemula/Documents/Mastek_Course/Read_and_Write/obj/Debug/netcoreapp3.1/Read_and_Write.pdb
