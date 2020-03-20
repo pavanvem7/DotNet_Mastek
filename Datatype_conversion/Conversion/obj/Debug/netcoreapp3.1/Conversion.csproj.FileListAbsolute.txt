@@ -1,0 +1,23 @@
+C:/Users/DELL/Desktop/Git Practice/Conversion/Conversion/obj/Debug/netcoreapp3.1/Conversion.csprojAssemblyReference.cache
+C:/Users/DELL/Desktop/Git Practice/Conversion/Conversion/obj/Debug/netcoreapp3.1/Conversion.csproj.CoreCompileInputs.cache
+C:/Users/DELL/Desktop/Git Practice/Conversion/Conversion/obj/Debug/netcoreapp3.1/Conversion.AssemblyInfoInputs.cache
+C:/Users/DELL/Desktop/Git Practice/Conversion/Conversion/obj/Debug/netcoreapp3.1/Conversion.AssemblyInfo.cs
+C:/Users/DELL/Desktop/Git Practice/Conversion/Conversion/bin/Debug/netcoreapp3.1/Conversion.exe
+C:/Users/DELL/Desktop/Git Practice/Conversion/Conversion/bin/Debug/netcoreapp3.1/Conversion.deps.json
+C:/Users/DELL/Desktop/Git Practice/Conversion/Conversion/bin/Debug/netcoreapp3.1/Conversion.runtimeconfig.json
+C:/Users/DELL/Desktop/Git Practice/Conversion/Conversion/bin/Debug/netcoreapp3.1/Conversion.runtimeconfig.dev.json
+C:/Users/DELL/Desktop/Git Practice/Conversion/Conversion/bin/Debug/netcoreapp3.1/Conversion.dll
+C:/Users/DELL/Desktop/Git Practice/Conversion/Conversion/bin/Debug/netcoreapp3.1/Conversion.pdb
+C:/Users/DELL/Desktop/Git Practice/Conversion/Conversion/obj/Debug/netcoreapp3.1/Conversion.dll
+C:/Users/DELL/Desktop/Git Practice/Conversion/Conversion/obj/Debug/netcoreapp3.1/Conversion.pdb
+C:/Users/DELL/Desktop/Git Practice/Conversion/Conversion/obj/Debug/netcoreapp3.1/Conversion.genruntimeconfig.cache
+/Users/pavanvemula/Documents/My-World/Datatype_conversion/Conversion/bin/Debug/netcoreapp3.1/Conversion.deps.json
+/Users/pavanvemula/Documents/My-World/Datatype_conversion/Conversion/bin/Debug/netcoreapp3.1/Conversion.runtimeconfig.json
+/Users/pavanvemula/Documents/My-World/Datatype_conversion/Conversion/bin/Debug/netcoreapp3.1/Conversion.runtimeconfig.dev.json
+/Users/pavanvemula/Documents/My-World/Datatype_conversion/Conversion/bin/Debug/netcoreapp3.1/Conversion.dll
+/Users/pavanvemula/Documents/My-World/Datatype_conversion/Conversion/bin/Debug/netcoreapp3.1/Conversion.pdb
+/Users/pavanvemula/Documents/My-World/Datatype_conversion/Conversion/obj/Debug/netcoreapp3.1/Conversion.csprojAssemblyReference.cache
+/Users/pavanvemula/Documents/My-World/Datatype_conversion/Conversion/obj/Debug/netcoreapp3.1/Conversion.AssemblyInfoInputs.cache
+/Users/pavanvemula/Documents/My-World/Datatype_conversion/Conversion/obj/Debug/netcoreapp3.1/Conversion.AssemblyInfo.cs
+/Users/pavanvemula/Documents/My-World/Datatype_conversion/Conversion/obj/Debug/netcoreapp3.1/Conversion.dll
+/Users/pavanvemula/Documents/My-World/Datatype_conversion/Conversion/obj/Debug/netcoreapp3.1/Conversion.pdb

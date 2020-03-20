@@ -1,0 +1,23 @@
+C:/Users/DELL/Desktop/Git Practice/Switch_statement/Switch_statement/bin/Debug/netcoreapp3.1/Switch_statement.exe
+C:/Users/DELL/Desktop/Git Practice/Switch_statement/Switch_statement/bin/Debug/netcoreapp3.1/Switch_statement.deps.json
+C:/Users/DELL/Desktop/Git Practice/Switch_statement/Switch_statement/bin/Debug/netcoreapp3.1/Switch_statement.runtimeconfig.json
+C:/Users/DELL/Desktop/Git Practice/Switch_statement/Switch_statement/bin/Debug/netcoreapp3.1/Switch_statement.runtimeconfig.dev.json
+C:/Users/DELL/Desktop/Git Practice/Switch_statement/Switch_statement/bin/Debug/netcoreapp3.1/Switch_statement.dll
+C:/Users/DELL/Desktop/Git Practice/Switch_statement/Switch_statement/bin/Debug/netcoreapp3.1/Switch_statement.pdb
+C:/Users/DELL/Desktop/Git Practice/Switch_statement/Switch_statement/obj/Debug/netcoreapp3.1/Switch_statement.csprojAssemblyReference.cache
+C:/Users/DELL/Desktop/Git Practice/Switch_statement/Switch_statement/obj/Debug/netcoreapp3.1/Switch_statement.csproj.CoreCompileInputs.cache
+C:/Users/DELL/Desktop/Git Practice/Switch_statement/Switch_statement/obj/Debug/netcoreapp3.1/Switch_statement.AssemblyInfoInputs.cache
+C:/Users/DELL/Desktop/Git Practice/Switch_statement/Switch_statement/obj/Debug/netcoreapp3.1/Switch_statement.AssemblyInfo.cs
+C:/Users/DELL/Desktop/Git Practice/Switch_statement/Switch_statement/obj/Debug/netcoreapp3.1/Switch_statement.dll
+C:/Users/DELL/Desktop/Git Practice/Switch_statement/Switch_statement/obj/Debug/netcoreapp3.1/Switch_statement.pdb
+C:/Users/DELL/Desktop/Git Practice/Switch_statement/Switch_statement/obj/Debug/netcoreapp3.1/Switch_statement.genruntimeconfig.cache
+/Users/pavanvemula/Documents/My-World/Switch_statement/Switch_statement/Switch_statement/bin/Debug/netcoreapp3.1/Switch_statement.deps.json
+/Users/pavanvemula/Documents/My-World/Switch_statement/Switch_statement/Switch_statement/bin/Debug/netcoreapp3.1/Switch_statement.runtimeconfig.json
+/Users/pavanvemula/Documents/My-World/Switch_statement/Switch_statement/Switch_statement/bin/Debug/netcoreapp3.1/Switch_statement.runtimeconfig.dev.json
+/Users/pavanvemula/Documents/My-World/Switch_statement/Switch_statement/Switch_statement/bin/Debug/netcoreapp3.1/Switch_statement.dll
+/Users/pavanvemula/Documents/My-World/Switch_statement/Switch_statement/Switch_statement/bin/Debug/netcoreapp3.1/Switch_statement.pdb
+/Users/pavanvemula/Documents/My-World/Switch_statement/Switch_statement/Switch_statement/obj/Debug/netcoreapp3.1/Switch_statement.csprojAssemblyReference.cache
+/Users/pavanvemula/Documents/My-World/Switch_statement/Switch_statement/Switch_statement/obj/Debug/netcoreapp3.1/Switch_statement.AssemblyInfoInputs.cache
+/Users/pavanvemula/Documents/My-World/Switch_statement/Switch_statement/Switch_statement/obj/Debug/netcoreapp3.1/Switch_statement.AssemblyInfo.cs
+/Users/pavanvemula/Documents/My-World/Switch_statement/Switch_statement/Switch_statement/obj/Debug/netcoreapp3.1/Switch_statement.dll
+/Users/pavanvemula/Documents/My-World/Switch_statement/Switch_statement/Switch_statement/obj/Debug/netcoreapp3.1/Switch_statement.pdb

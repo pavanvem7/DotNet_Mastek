@@ -1,0 +1,23 @@
+C:/Users/DELL/Desktop/Git Practice/Do_while_loop/Do_while_loop/bin/Debug/netcoreapp3.1/Do_while_loop.exe
+C:/Users/DELL/Desktop/Git Practice/Do_while_loop/Do_while_loop/bin/Debug/netcoreapp3.1/Do_while_loop.deps.json
+C:/Users/DELL/Desktop/Git Practice/Do_while_loop/Do_while_loop/bin/Debug/netcoreapp3.1/Do_while_loop.runtimeconfig.json
+C:/Users/DELL/Desktop/Git Practice/Do_while_loop/Do_while_loop/bin/Debug/netcoreapp3.1/Do_while_loop.runtimeconfig.dev.json
+C:/Users/DELL/Desktop/Git Practice/Do_while_loop/Do_while_loop/bin/Debug/netcoreapp3.1/Do_while_loop.dll
+C:/Users/DELL/Desktop/Git Practice/Do_while_loop/Do_while_loop/bin/Debug/netcoreapp3.1/Do_while_loop.pdb
+C:/Users/DELL/Desktop/Git Practice/Do_while_loop/Do_while_loop/obj/Debug/netcoreapp3.1/Do_while_loop.csprojAssemblyReference.cache
+C:/Users/DELL/Desktop/Git Practice/Do_while_loop/Do_while_loop/obj/Debug/netcoreapp3.1/Do_while_loop.csproj.CoreCompileInputs.cache
+C:/Users/DELL/Desktop/Git Practice/Do_while_loop/Do_while_loop/obj/Debug/netcoreapp3.1/Do_while_loop.AssemblyInfoInputs.cache
+C:/Users/DELL/Desktop/Git Practice/Do_while_loop/Do_while_loop/obj/Debug/netcoreapp3.1/Do_while_loop.AssemblyInfo.cs
+C:/Users/DELL/Desktop/Git Practice/Do_while_loop/Do_while_loop/obj/Debug/netcoreapp3.1/Do_while_loop.dll
+C:/Users/DELL/Desktop/Git Practice/Do_while_loop/Do_while_loop/obj/Debug/netcoreapp3.1/Do_while_loop.pdb
+C:/Users/DELL/Desktop/Git Practice/Do_while_loop/Do_while_loop/obj/Debug/netcoreapp3.1/Do_while_loop.genruntimeconfig.cache
+/Users/pavanvemula/Documents/My-World/Do_while_loop/Do_while_loop/bin/Debug/netcoreapp3.1/Do_while_loop.deps.json
+/Users/pavanvemula/Documents/My-World/Do_while_loop/Do_while_loop/bin/Debug/netcoreapp3.1/Do_while_loop.runtimeconfig.json
+/Users/pavanvemula/Documents/My-World/Do_while_loop/Do_while_loop/bin/Debug/netcoreapp3.1/Do_while_loop.runtimeconfig.dev.json
+/Users/pavanvemula/Documents/My-World/Do_while_loop/Do_while_loop/bin/Debug/netcoreapp3.1/Do_while_loop.dll
+/Users/pavanvemula/Documents/My-World/Do_while_loop/Do_while_loop/bin/Debug/netcoreapp3.1/Do_while_loop.pdb
+/Users/pavanvemula/Documents/My-World/Do_while_loop/Do_while_loop/obj/Debug/netcoreapp3.1/Do_while_loop.csprojAssemblyReference.cache
+/Users/pavanvemula/Documents/My-World/Do_while_loop/Do_while_loop/obj/Debug/netcoreapp3.1/Do_while_loop.AssemblyInfoInputs.cache
+/Users/pavanvemula/Documents/My-World/Do_while_loop/Do_while_loop/obj/Debug/netcoreapp3.1/Do_while_loop.AssemblyInfo.cs
+/Users/pavanvemula/Documents/My-World/Do_while_loop/Do_while_loop/obj/Debug/netcoreapp3.1/Do_while_loop.dll
+/Users/pavanvemula/Documents/My-World/Do_while_loop/Do_while_loop/obj/Debug/netcoreapp3.1/Do_while_loop.pdb

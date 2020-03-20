@@ -1,0 +1,10 @@
+/Users/pavanvemula/Documents/Mastek_Course/If_Condition/bin/Debug/netcoreapp3.1/If_Condition.deps.json
+/Users/pavanvemula/Documents/Mastek_Course/If_Condition/bin/Debug/netcoreapp3.1/If_Condition.runtimeconfig.json
+/Users/pavanvemula/Documents/Mastek_Course/If_Condition/bin/Debug/netcoreapp3.1/If_Condition.runtimeconfig.dev.json
+/Users/pavanvemula/Documents/Mastek_Course/If_Condition/bin/Debug/netcoreapp3.1/If_Condition.dll
+/Users/pavanvemula/Documents/Mastek_Course/If_Condition/bin/Debug/netcoreapp3.1/If_Condition.pdb
+/Users/pavanvemula/Documents/Mastek_Course/If_Condition/obj/Debug/netcoreapp3.1/If_Condition.csprojAssemblyReference.cache
+/Users/pavanvemula/Documents/Mastek_Course/If_Condition/obj/Debug/netcoreapp3.1/If_Condition.AssemblyInfoInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/If_Condition/obj/Debug/netcoreapp3.1/If_Condition.AssemblyInfo.cs
+/Users/pavanvemula/Documents/Mastek_Course/If_Condition/obj/Debug/netcoreapp3.1/If_Condition.dll
+/Users/pavanvemula/Documents/Mastek_Course/If_Condition/obj/Debug/netcoreapp3.1/If_Condition.pdb

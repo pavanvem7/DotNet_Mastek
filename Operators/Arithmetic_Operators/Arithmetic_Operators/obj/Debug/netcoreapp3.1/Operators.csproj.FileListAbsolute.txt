@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\Git Practice\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.exe
+C:\Users\DELL\Desktop\Git Practice\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.deps.json
+C:\Users\DELL\Desktop\Git Practice\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.json
+C:\Users\DELL\Desktop\Git Practice\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Git Practice\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.dll
+C:\Users\DELL\Desktop\Git Practice\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.pdb
+C:\Users\DELL\Desktop\Git Practice\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Git Practice\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Git Practice\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Git Practice\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Git Practice\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.dll
+C:\Users\DELL\Desktop\Git Practice\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.pdb
+C:\Users\DELL\Desktop\Git Practice\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.genruntimeconfig.cache

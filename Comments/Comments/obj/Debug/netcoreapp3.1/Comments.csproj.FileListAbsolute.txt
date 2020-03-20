@@ -1,0 +1,4 @@
+C:\Users\DELL\Desktop\Git Practice\Comments\Comments\obj\Debug\netcoreapp3.1\Comments.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Git Practice\Comments\Comments\obj\Debug\netcoreapp3.1\Comments.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Git Practice\Comments\Comments\obj\Debug\netcoreapp3.1\Comments.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Git Practice\Comments\Comments\obj\Debug\netcoreapp3.1\Comments.AssemblyInfo.cs

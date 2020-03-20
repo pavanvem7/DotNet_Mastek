@@ -1,0 +1,35 @@
+C:/Users/DELL/Desktop/Git Practice/Operators/Operators/bin/Debug/netcoreapp3.1/Arithmetic_Operators.exe
+C:/Users/DELL/Desktop/Git Practice/Operators/Operators/bin/Debug/netcoreapp3.1/Arithmetic_Operators.deps.json
+C:/Users/DELL/Desktop/Git Practice/Operators/Operators/bin/Debug/netcoreapp3.1/Arithmetic_Operators.runtimeconfig.json
+C:/Users/DELL/Desktop/Git Practice/Operators/Operators/bin/Debug/netcoreapp3.1/Arithmetic_Operators.runtimeconfig.dev.json
+C:/Users/DELL/Desktop/Git Practice/Operators/Operators/bin/Debug/netcoreapp3.1/Arithmetic_Operators.dll
+C:/Users/DELL/Desktop/Git Practice/Operators/Operators/bin/Debug/netcoreapp3.1/Arithmetic_Operators.pdb
+C:/Users/DELL/Desktop/Git Practice/Operators/Operators/obj/Debug/netcoreapp3.1/Arithmetic_Operators.csproj.CoreCompileInputs.cache
+C:/Users/DELL/Desktop/Git Practice/Operators/Operators/obj/Debug/netcoreapp3.1/Arithmetic_Operators.AssemblyInfoInputs.cache
+C:/Users/DELL/Desktop/Git Practice/Operators/Operators/obj/Debug/netcoreapp3.1/Arithmetic_Operators.AssemblyInfo.cs
+C:/Users/DELL/Desktop/Git Practice/Operators/Operators/obj/Debug/netcoreapp3.1/Arithmetic_Operators.dll
+C:/Users/DELL/Desktop/Git Practice/Operators/Operators/obj/Debug/netcoreapp3.1/Arithmetic_Operators.pdb
+C:/Users/DELL/Desktop/Git Practice/Operators/Operators/obj/Debug/netcoreapp3.1/Arithmetic_Operators.genruntimeconfig.cache
+C:/Users/DELL/Desktop/Git Practice/Operators/Arithmetic_Operators/Arithmetic_Operators/bin/Debug/netcoreapp3.1/Arithmetic_Operators.exe
+C:/Users/DELL/Desktop/Git Practice/Operators/Arithmetic_Operators/Arithmetic_Operators/bin/Debug/netcoreapp3.1/Arithmetic_Operators.deps.json
+C:/Users/DELL/Desktop/Git Practice/Operators/Arithmetic_Operators/Arithmetic_Operators/bin/Debug/netcoreapp3.1/Arithmetic_Operators.runtimeconfig.json
+C:/Users/DELL/Desktop/Git Practice/Operators/Arithmetic_Operators/Arithmetic_Operators/bin/Debug/netcoreapp3.1/Arithmetic_Operators.runtimeconfig.dev.json
+C:/Users/DELL/Desktop/Git Practice/Operators/Arithmetic_Operators/Arithmetic_Operators/bin/Debug/netcoreapp3.1/Arithmetic_Operators.dll
+C:/Users/DELL/Desktop/Git Practice/Operators/Arithmetic_Operators/Arithmetic_Operators/bin/Debug/netcoreapp3.1/Arithmetic_Operators.pdb
+C:/Users/DELL/Desktop/Git Practice/Operators/Arithmetic_Operators/Arithmetic_Operators/obj/Debug/netcoreapp3.1/Arithmetic_Operators.csprojAssemblyReference.cache
+C:/Users/DELL/Desktop/Git Practice/Operators/Arithmetic_Operators/Arithmetic_Operators/obj/Debug/netcoreapp3.1/Arithmetic_Operators.csproj.CoreCompileInputs.cache
+C:/Users/DELL/Desktop/Git Practice/Operators/Arithmetic_Operators/Arithmetic_Operators/obj/Debug/netcoreapp3.1/Arithmetic_Operators.AssemblyInfoInputs.cache
+C:/Users/DELL/Desktop/Git Practice/Operators/Arithmetic_Operators/Arithmetic_Operators/obj/Debug/netcoreapp3.1/Arithmetic_Operators.AssemblyInfo.cs
+C:/Users/DELL/Desktop/Git Practice/Operators/Arithmetic_Operators/Arithmetic_Operators/obj/Debug/netcoreapp3.1/Arithmetic_Operators.dll
+C:/Users/DELL/Desktop/Git Practice/Operators/Arithmetic_Operators/Arithmetic_Operators/obj/Debug/netcoreapp3.1/Arithmetic_Operators.pdb
+C:/Users/DELL/Desktop/Git Practice/Operators/Arithmetic_Operators/Arithmetic_Operators/obj/Debug/netcoreapp3.1/Arithmetic_Operators.genruntimeconfig.cache
+/Users/pavanvemula/Documents/My-World/Operators/Arithmetic_Operators/Arithmetic_Operators/bin/Debug/netcoreapp3.1/Arithmetic_Operators.deps.json
+/Users/pavanvemula/Documents/My-World/Operators/Arithmetic_Operators/Arithmetic_Operators/bin/Debug/netcoreapp3.1/Arithmetic_Operators.runtimeconfig.json
+/Users/pavanvemula/Documents/My-World/Operators/Arithmetic_Operators/Arithmetic_Operators/bin/Debug/netcoreapp3.1/Arithmetic_Operators.runtimeconfig.dev.json
+/Users/pavanvemula/Documents/My-World/Operators/Arithmetic_Operators/Arithmetic_Operators/bin/Debug/netcoreapp3.1/Arithmetic_Operators.dll
+/Users/pavanvemula/Documents/My-World/Operators/Arithmetic_Operators/Arithmetic_Operators/bin/Debug/netcoreapp3.1/Arithmetic_Operators.pdb
+/Users/pavanvemula/Documents/My-World/Operators/Arithmetic_Operators/Arithmetic_Operators/obj/Debug/netcoreapp3.1/Arithmetic_Operators.csprojAssemblyReference.cache
+/Users/pavanvemula/Documents/My-World/Operators/Arithmetic_Operators/Arithmetic_Operators/obj/Debug/netcoreapp3.1/Arithmetic_Operators.AssemblyInfoInputs.cache
+/Users/pavanvemula/Documents/My-World/Operators/Arithmetic_Operators/Arithmetic_Operators/obj/Debug/netcoreapp3.1/Arithmetic_Operators.AssemblyInfo.cs
+/Users/pavanvemula/Documents/My-World/Operators/Arithmetic_Operators/Arithmetic_Operators/obj/Debug/netcoreapp3.1/Arithmetic_Operators.dll
+/Users/pavanvemula/Documents/My-World/Operators/Arithmetic_Operators/Arithmetic_Operators/obj/Debug/netcoreapp3.1/Arithmetic_Operators.pdb

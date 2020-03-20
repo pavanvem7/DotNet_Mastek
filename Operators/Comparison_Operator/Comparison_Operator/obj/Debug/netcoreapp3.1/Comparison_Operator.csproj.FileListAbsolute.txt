@@ -1,0 +1,23 @@
+C:/Users/DELL/Desktop/Git Practice/Operators/Comparison_Operator/Comparison_Operator/bin/Debug/netcoreapp3.1/Comparison_Operator.exe
+C:/Users/DELL/Desktop/Git Practice/Operators/Comparison_Operator/Comparison_Operator/bin/Debug/netcoreapp3.1/Comparison_Operator.deps.json
+C:/Users/DELL/Desktop/Git Practice/Operators/Comparison_Operator/Comparison_Operator/bin/Debug/netcoreapp3.1/Comparison_Operator.runtimeconfig.json
+C:/Users/DELL/Desktop/Git Practice/Operators/Comparison_Operator/Comparison_Operator/bin/Debug/netcoreapp3.1/Comparison_Operator.runtimeconfig.dev.json
+C:/Users/DELL/Desktop/Git Practice/Operators/Comparison_Operator/Comparison_Operator/bin/Debug/netcoreapp3.1/Comparison_Operator.dll
+C:/Users/DELL/Desktop/Git Practice/Operators/Comparison_Operator/Comparison_Operator/bin/Debug/netcoreapp3.1/Comparison_Operator.pdb
+C:/Users/DELL/Desktop/Git Practice/Operators/Comparison_Operator/Comparison_Operator/obj/Debug/netcoreapp3.1/Comparison_Operator.csprojAssemblyReference.cache
+C:/Users/DELL/Desktop/Git Practice/Operators/Comparison_Operator/Comparison_Operator/obj/Debug/netcoreapp3.1/Comparison_Operator.csproj.CoreCompileInputs.cache
+C:/Users/DELL/Desktop/Git Practice/Operators/Comparison_Operator/Comparison_Operator/obj/Debug/netcoreapp3.1/Comparison_Operator.AssemblyInfoInputs.cache
+C:/Users/DELL/Desktop/Git Practice/Operators/Comparison_Operator/Comparison_Operator/obj/Debug/netcoreapp3.1/Comparison_Operator.AssemblyInfo.cs
+C:/Users/DELL/Desktop/Git Practice/Operators/Comparison_Operator/Comparison_Operator/obj/Debug/netcoreapp3.1/Comparison_Operator.dll
+C:/Users/DELL/Desktop/Git Practice/Operators/Comparison_Operator/Comparison_Operator/obj/Debug/netcoreapp3.1/Comparison_Operator.pdb
+C:/Users/DELL/Desktop/Git Practice/Operators/Comparison_Operator/Comparison_Operator/obj/Debug/netcoreapp3.1/Comparison_Operator.genruntimeconfig.cache
+/Users/pavanvemula/Documents/My-World/Operators/Comparison_Operator/Comparison_Operator/bin/Debug/netcoreapp3.1/Comparison_Operator.deps.json
+/Users/pavanvemula/Documents/My-World/Operators/Comparison_Operator/Comparison_Operator/bin/Debug/netcoreapp3.1/Comparison_Operator.runtimeconfig.json
+/Users/pavanvemula/Documents/My-World/Operators/Comparison_Operator/Comparison_Operator/bin/Debug/netcoreapp3.1/Comparison_Operator.runtimeconfig.dev.json
+/Users/pavanvemula/Documents/My-World/Operators/Comparison_Operator/Comparison_Operator/bin/Debug/netcoreapp3.1/Comparison_Operator.dll
+/Users/pavanvemula/Documents/My-World/Operators/Comparison_Operator/Comparison_Operator/bin/Debug/netcoreapp3.1/Comparison_Operator.pdb
+/Users/pavanvemula/Documents/My-World/Operators/Comparison_Operator/Comparison_Operator/obj/Debug/netcoreapp3.1/Comparison_Operator.csprojAssemblyReference.cache
+/Users/pavanvemula/Documents/My-World/Operators/Comparison_Operator/Comparison_Operator/obj/Debug/netcoreapp3.1/Comparison_Operator.AssemblyInfoInputs.cache
+/Users/pavanvemula/Documents/My-World/Operators/Comparison_Operator/Comparison_Operator/obj/Debug/netcoreapp3.1/Comparison_Operator.AssemblyInfo.cs
+/Users/pavanvemula/Documents/My-World/Operators/Comparison_Operator/Comparison_Operator/obj/Debug/netcoreapp3.1/Comparison_Operator.dll
+/Users/pavanvemula/Documents/My-World/Operators/Comparison_Operator/Comparison_Operator/obj/Debug/netcoreapp3.1/Comparison_Operator.pdb

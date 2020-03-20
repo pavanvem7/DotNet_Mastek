@@ -1,0 +1,22 @@
+C:/Users/DELL/Desktop/Git Practice/While_loop/While_loop/bin/Debug/netcoreapp3.1/While_loop.exe
+C:/Users/DELL/Desktop/Git Practice/While_loop/While_loop/bin/Debug/netcoreapp3.1/While_loop.deps.json
+C:/Users/DELL/Desktop/Git Practice/While_loop/While_loop/bin/Debug/netcoreapp3.1/While_loop.runtimeconfig.json
+C:/Users/DELL/Desktop/Git Practice/While_loop/While_loop/bin/Debug/netcoreapp3.1/While_loop.runtimeconfig.dev.json
+C:/Users/DELL/Desktop/Git Practice/While_loop/While_loop/bin/Debug/netcoreapp3.1/While_loop.dll
+C:/Users/DELL/Desktop/Git Practice/While_loop/While_loop/bin/Debug/netcoreapp3.1/While_loop.pdb
+C:/Users/DELL/Desktop/Git Practice/While_loop/While_loop/obj/Debug/netcoreapp3.1/While_loop.csproj.CoreCompileInputs.cache
+C:/Users/DELL/Desktop/Git Practice/While_loop/While_loop/obj/Debug/netcoreapp3.1/While_loop.AssemblyInfoInputs.cache
+C:/Users/DELL/Desktop/Git Practice/While_loop/While_loop/obj/Debug/netcoreapp3.1/While_loop.AssemblyInfo.cs
+C:/Users/DELL/Desktop/Git Practice/While_loop/While_loop/obj/Debug/netcoreapp3.1/While_loop.dll
+C:/Users/DELL/Desktop/Git Practice/While_loop/While_loop/obj/Debug/netcoreapp3.1/While_loop.pdb
+C:/Users/DELL/Desktop/Git Practice/While_loop/While_loop/obj/Debug/netcoreapp3.1/While_loop.genruntimeconfig.cache
+/Users/pavanvemula/Documents/My-World/While_loop/While_loop/bin/Debug/netcoreapp3.1/While_loop.deps.json
+/Users/pavanvemula/Documents/My-World/While_loop/While_loop/bin/Debug/netcoreapp3.1/While_loop.runtimeconfig.json
+/Users/pavanvemula/Documents/My-World/While_loop/While_loop/bin/Debug/netcoreapp3.1/While_loop.runtimeconfig.dev.json
+/Users/pavanvemula/Documents/My-World/While_loop/While_loop/bin/Debug/netcoreapp3.1/While_loop.dll
+/Users/pavanvemula/Documents/My-World/While_loop/While_loop/bin/Debug/netcoreapp3.1/While_loop.pdb
+/Users/pavanvemula/Documents/My-World/While_loop/While_loop/obj/Debug/netcoreapp3.1/While_loop.csprojAssemblyReference.cache
+/Users/pavanvemula/Documents/My-World/While_loop/While_loop/obj/Debug/netcoreapp3.1/While_loop.AssemblyInfoInputs.cache
+/Users/pavanvemula/Documents/My-World/While_loop/While_loop/obj/Debug/netcoreapp3.1/While_loop.AssemblyInfo.cs
+/Users/pavanvemula/Documents/My-World/While_loop/While_loop/obj/Debug/netcoreapp3.1/While_loop.dll
+/Users/pavanvemula/Documents/My-World/While_loop/While_loop/obj/Debug/netcoreapp3.1/While_loop.pdb
