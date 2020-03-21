@@ -1,0 +1,10 @@
+/Users/pavanvemula/Documents/Mastek_Course/NameSpaces/bin/Debug/netcoreapp3.1/NameSpaces.deps.json
+/Users/pavanvemula/Documents/Mastek_Course/NameSpaces/bin/Debug/netcoreapp3.1/NameSpaces.runtimeconfig.json
+/Users/pavanvemula/Documents/Mastek_Course/NameSpaces/bin/Debug/netcoreapp3.1/NameSpaces.runtimeconfig.dev.json
+/Users/pavanvemula/Documents/Mastek_Course/NameSpaces/bin/Debug/netcoreapp3.1/NameSpaces.dll
+/Users/pavanvemula/Documents/Mastek_Course/NameSpaces/bin/Debug/netcoreapp3.1/NameSpaces.pdb
+/Users/pavanvemula/Documents/Mastek_Course/NameSpaces/obj/Debug/netcoreapp3.1/NameSpaces.csprojAssemblyReference.cache
+/Users/pavanvemula/Documents/Mastek_Course/NameSpaces/obj/Debug/netcoreapp3.1/NameSpaces.AssemblyInfoInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/NameSpaces/obj/Debug/netcoreapp3.1/NameSpaces.AssemblyInfo.cs
+/Users/pavanvemula/Documents/Mastek_Course/NameSpaces/obj/Debug/netcoreapp3.1/NameSpaces.dll
+/Users/pavanvemula/Documents/Mastek_Course/NameSpaces/obj/Debug/netcoreapp3.1/NameSpaces.pdb

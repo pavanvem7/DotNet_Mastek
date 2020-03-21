@@ -1,0 +1,10 @@
+/Users/pavanvemula/Projects/Class_2/bin/Debug/netcoreapp3.1/Class_2.deps.json
+/Users/pavanvemula/Projects/Class_2/bin/Debug/netcoreapp3.1/Class_2.runtimeconfig.json
+/Users/pavanvemula/Projects/Class_2/bin/Debug/netcoreapp3.1/Class_2.runtimeconfig.dev.json
+/Users/pavanvemula/Projects/Class_2/bin/Debug/netcoreapp3.1/Class_2.dll
+/Users/pavanvemula/Projects/Class_2/bin/Debug/netcoreapp3.1/Class_2.pdb
+/Users/pavanvemula/Projects/Class_2/obj/Debug/netcoreapp3.1/Class_2.csprojAssemblyReference.cache
+/Users/pavanvemula/Projects/Class_2/obj/Debug/netcoreapp3.1/Class_2.AssemblyInfoInputs.cache
+/Users/pavanvemula/Projects/Class_2/obj/Debug/netcoreapp3.1/Class_2.AssemblyInfo.cs
+/Users/pavanvemula/Projects/Class_2/obj/Debug/netcoreapp3.1/Class_2.dll
+/Users/pavanvemula/Projects/Class_2/obj/Debug/netcoreapp3.1/Class_2.pdb

@@ -1,0 +1,23 @@
+C:/Users/DELL/Desktop/Git Practice/Methods/Methods/bin/Debug/netcoreapp3.1/Methods.exe
+C:/Users/DELL/Desktop/Git Practice/Methods/Methods/bin/Debug/netcoreapp3.1/Methods.deps.json
+C:/Users/DELL/Desktop/Git Practice/Methods/Methods/bin/Debug/netcoreapp3.1/Methods.runtimeconfig.json
+C:/Users/DELL/Desktop/Git Practice/Methods/Methods/bin/Debug/netcoreapp3.1/Methods.runtimeconfig.dev.json
+C:/Users/DELL/Desktop/Git Practice/Methods/Methods/bin/Debug/netcoreapp3.1/Methods.dll
+C:/Users/DELL/Desktop/Git Practice/Methods/Methods/bin/Debug/netcoreapp3.1/Methods.pdb
+C:/Users/DELL/Desktop/Git Practice/Methods/Methods/obj/Debug/netcoreapp3.1/Methods.csprojAssemblyReference.cache
+C:/Users/DELL/Desktop/Git Practice/Methods/Methods/obj/Debug/netcoreapp3.1/Methods.csproj.CoreCompileInputs.cache
+C:/Users/DELL/Desktop/Git Practice/Methods/Methods/obj/Debug/netcoreapp3.1/Methods.AssemblyInfoInputs.cache
+C:/Users/DELL/Desktop/Git Practice/Methods/Methods/obj/Debug/netcoreapp3.1/Methods.AssemblyInfo.cs
+C:/Users/DELL/Desktop/Git Practice/Methods/Methods/obj/Debug/netcoreapp3.1/Methods.dll
+C:/Users/DELL/Desktop/Git Practice/Methods/Methods/obj/Debug/netcoreapp3.1/Methods.pdb
+C:/Users/DELL/Desktop/Git Practice/Methods/Methods/obj/Debug/netcoreapp3.1/Methods.genruntimeconfig.cache
+/Users/pavanvemula/Documents/My-World/Methods/Methods/bin/Debug/netcoreapp3.1/Methods.deps.json
+/Users/pavanvemula/Documents/My-World/Methods/Methods/bin/Debug/netcoreapp3.1/Methods.runtimeconfig.json
+/Users/pavanvemula/Documents/My-World/Methods/Methods/bin/Debug/netcoreapp3.1/Methods.runtimeconfig.dev.json
+/Users/pavanvemula/Documents/My-World/Methods/Methods/bin/Debug/netcoreapp3.1/Methods.dll
+/Users/pavanvemula/Documents/My-World/Methods/Methods/bin/Debug/netcoreapp3.1/Methods.pdb
+/Users/pavanvemula/Documents/My-World/Methods/Methods/obj/Debug/netcoreapp3.1/Methods.csprojAssemblyReference.cache
+/Users/pavanvemula/Documents/My-World/Methods/Methods/obj/Debug/netcoreapp3.1/Methods.AssemblyInfoInputs.cache
+/Users/pavanvemula/Documents/My-World/Methods/Methods/obj/Debug/netcoreapp3.1/Methods.AssemblyInfo.cs
+/Users/pavanvemula/Documents/My-World/Methods/Methods/obj/Debug/netcoreapp3.1/Methods.dll
+/Users/pavanvemula/Documents/My-World/Methods/Methods/obj/Debug/netcoreapp3.1/Methods.pdb
