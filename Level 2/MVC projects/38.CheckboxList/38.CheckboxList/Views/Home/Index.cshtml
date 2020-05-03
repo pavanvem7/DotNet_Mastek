@@ -1,0 +1,15 @@
+﻿
+@model IEnumerable<_38.CheckboxList.Models.City>
+@{
+    ViewBag.Title = "Index";
+}
+<div style="font-family:Arial">
+    <h2>Index</h2>
+
+    @using (Html.BeginForm())
+    {
+        @Html.EditorForModel()
+        <br />
+        <input type="submit" value="Submit" />
+    }
+</div>

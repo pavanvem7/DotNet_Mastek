@@ -1,0 +1,15 @@
+﻿@model _38.CheckboxList.Models.CitiesViewModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<div style="font-family:Arial">
+    <h2>Index</h2>
+    @using (Html.BeginForm())
+    {
+        @Html.ListBoxFor(m => m.SelectedCities, Model.Cities, new { size = 4 })
+        <br />
+        <input type="submit" value="Submit" />
+    }
+</div>

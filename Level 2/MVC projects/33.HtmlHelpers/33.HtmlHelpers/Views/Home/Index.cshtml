@@ -1,0 +1,12 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<h2>HTML Helpers Demo</h2>
+@Html.Label("fisrtname", "First Name")
+@Html.TextBox("firstname", "Pavan", new { @class = "redtextbox", @readonly = "true" })
+</br>
+@Html.TextArea("Comments", "", 8, 25, null)</br>
+@Html.Label("password", "Password")
+@Html.Password("Password")
+
