@@ -1,0 +1,12 @@
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Why_Properties/Why_Properties/bin/Debug/netcoreapp3.1/Why_Properties.deps.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Why_Properties/Why_Properties/bin/Debug/netcoreapp3.1/Why_Properties.runtimeconfig.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Why_Properties/Why_Properties/bin/Debug/netcoreapp3.1/Why_Properties.runtimeconfig.dev.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Why_Properties/Why_Properties/bin/Debug/netcoreapp3.1/Why_Properties.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Why_Properties/Why_Properties/bin/Debug/netcoreapp3.1/Why_Properties.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Why_Properties/Why_Properties/obj/Debug/netcoreapp3.1/Why_Properties.csprojAssemblyReference.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Why_Properties/Why_Properties/obj/Debug/netcoreapp3.1/Why_Properties.csproj.CoreCompileInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Why_Properties/Why_Properties/obj/Debug/netcoreapp3.1/Why_Properties.AssemblyInfoInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Why_Properties/Why_Properties/obj/Debug/netcoreapp3.1/Why_Properties.AssemblyInfo.cs
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Why_Properties/Why_Properties/obj/Debug/netcoreapp3.1/Why_Properties.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Why_Properties/Why_Properties/obj/Debug/netcoreapp3.1/Why_Properties.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Why_Properties/Why_Properties/obj/Debug/netcoreapp3.1/Why_Properties.genruntimeconfig.cache
