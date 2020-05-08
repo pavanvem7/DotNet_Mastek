@@ -1,0 +1,12 @@
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Custom_Exceptions/Custom_Exceptions/bin/Debug/netcoreapp3.1/Custom_Exceptions.deps.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Custom_Exceptions/Custom_Exceptions/bin/Debug/netcoreapp3.1/Custom_Exceptions.runtimeconfig.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Custom_Exceptions/Custom_Exceptions/bin/Debug/netcoreapp3.1/Custom_Exceptions.runtimeconfig.dev.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Custom_Exceptions/Custom_Exceptions/bin/Debug/netcoreapp3.1/Custom_Exceptions.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Custom_Exceptions/Custom_Exceptions/bin/Debug/netcoreapp3.1/Custom_Exceptions.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Custom_Exceptions/Custom_Exceptions/obj/Debug/netcoreapp3.1/Custom_Exceptions.csprojAssemblyReference.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Custom_Exceptions/Custom_Exceptions/obj/Debug/netcoreapp3.1/Custom_Exceptions.csproj.CoreCompileInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Custom_Exceptions/Custom_Exceptions/obj/Debug/netcoreapp3.1/Custom_Exceptions.AssemblyInfoInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Custom_Exceptions/Custom_Exceptions/obj/Debug/netcoreapp3.1/Custom_Exceptions.AssemblyInfo.cs
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Custom_Exceptions/Custom_Exceptions/obj/Debug/netcoreapp3.1/Custom_Exceptions.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Custom_Exceptions/Custom_Exceptions/obj/Debug/netcoreapp3.1/Custom_Exceptions.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Custom_Exceptions/Custom_Exceptions/obj/Debug/netcoreapp3.1/Custom_Exceptions.genruntimeconfig.cache

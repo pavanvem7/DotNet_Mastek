@@ -1,0 +1,12 @@
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Inheritance_with_Interfaces/Inheritance_with_Interfaces/bin/Debug/netcoreapp3.1/Inheritance_with_Interfaces.deps.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Inheritance_with_Interfaces/Inheritance_with_Interfaces/bin/Debug/netcoreapp3.1/Inheritance_with_Interfaces.runtimeconfig.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Inheritance_with_Interfaces/Inheritance_with_Interfaces/bin/Debug/netcoreapp3.1/Inheritance_with_Interfaces.runtimeconfig.dev.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Inheritance_with_Interfaces/Inheritance_with_Interfaces/bin/Debug/netcoreapp3.1/Inheritance_with_Interfaces.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Inheritance_with_Interfaces/Inheritance_with_Interfaces/bin/Debug/netcoreapp3.1/Inheritance_with_Interfaces.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Inheritance_with_Interfaces/Inheritance_with_Interfaces/obj/Debug/netcoreapp3.1/Inheritance_with_Interfaces.csprojAssemblyReference.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Inheritance_with_Interfaces/Inheritance_with_Interfaces/obj/Debug/netcoreapp3.1/Inheritance_with_Interfaces.csproj.CoreCompileInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Inheritance_with_Interfaces/Inheritance_with_Interfaces/obj/Debug/netcoreapp3.1/Inheritance_with_Interfaces.AssemblyInfoInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Inheritance_with_Interfaces/Inheritance_with_Interfaces/obj/Debug/netcoreapp3.1/Inheritance_with_Interfaces.AssemblyInfo.cs
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Inheritance_with_Interfaces/Inheritance_with_Interfaces/obj/Debug/netcoreapp3.1/Inheritance_with_Interfaces.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Inheritance_with_Interfaces/Inheritance_with_Interfaces/obj/Debug/netcoreapp3.1/Inheritance_with_Interfaces.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Inheritance_with_Interfaces/Inheritance_with_Interfaces/obj/Debug/netcoreapp3.1/Inheritance_with_Interfaces.genruntimeconfig.cache

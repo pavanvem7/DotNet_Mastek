@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/pavanvemula/Documents/Delegates/Delegates.csproj",
+      "projectUniqueName": "/Users/pavanvemula/Documents/Mastek_Course/Level 1/Delegates/Delegates.csproj",
       "projectName": "Delegates",
-      "projectPath": "/Users/pavanvemula/Documents/Delegates/Delegates.csproj",
+      "projectPath": "/Users/pavanvemula/Documents/Mastek_Course/Level 1/Delegates/Delegates.csproj",
       "packagesPath": "/Users/pavanvemula/.nuget/packages/",
-      "outputPath": "/Users/pavanvemula/Documents/Delegates/obj/",
+      "outputPath": "/Users/pavanvemula/Documents/Mastek_Course/Level 1/Delegates/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/pavanvemula/.config/NuGet/NuGet.Config"
@@ -56,7 +56,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
       }
     }
   }

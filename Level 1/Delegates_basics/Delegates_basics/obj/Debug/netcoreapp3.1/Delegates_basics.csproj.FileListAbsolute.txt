@@ -1,0 +1,12 @@
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Delegates_basics/Delegates_basics/bin/Debug/netcoreapp3.1/Delegates_basics.deps.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Delegates_basics/Delegates_basics/bin/Debug/netcoreapp3.1/Delegates_basics.runtimeconfig.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Delegates_basics/Delegates_basics/bin/Debug/netcoreapp3.1/Delegates_basics.runtimeconfig.dev.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Delegates_basics/Delegates_basics/bin/Debug/netcoreapp3.1/Delegates_basics.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Delegates_basics/Delegates_basics/bin/Debug/netcoreapp3.1/Delegates_basics.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Delegates_basics/Delegates_basics/obj/Debug/netcoreapp3.1/Delegates_basics.csprojAssemblyReference.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Delegates_basics/Delegates_basics/obj/Debug/netcoreapp3.1/Delegates_basics.csproj.CoreCompileInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Delegates_basics/Delegates_basics/obj/Debug/netcoreapp3.1/Delegates_basics.AssemblyInfoInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Delegates_basics/Delegates_basics/obj/Debug/netcoreapp3.1/Delegates_basics.AssemblyInfo.cs
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Delegates_basics/Delegates_basics/obj/Debug/netcoreapp3.1/Delegates_basics.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Delegates_basics/Delegates_basics/obj/Debug/netcoreapp3.1/Delegates_basics.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Delegates_basics/Delegates_basics/obj/Debug/netcoreapp3.1/Delegates_basics.genruntimeconfig.cache

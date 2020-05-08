@@ -1,0 +1,12 @@
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Generics/Generics/bin/Debug/netcoreapp3.1/Generics.deps.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Generics/Generics/bin/Debug/netcoreapp3.1/Generics.runtimeconfig.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Generics/Generics/bin/Debug/netcoreapp3.1/Generics.runtimeconfig.dev.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Generics/Generics/bin/Debug/netcoreapp3.1/Generics.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Generics/Generics/bin/Debug/netcoreapp3.1/Generics.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Generics/Generics/obj/Debug/netcoreapp3.1/Generics.csprojAssemblyReference.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Generics/Generics/obj/Debug/netcoreapp3.1/Generics.csproj.CoreCompileInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Generics/Generics/obj/Debug/netcoreapp3.1/Generics.AssemblyInfoInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Generics/Generics/obj/Debug/netcoreapp3.1/Generics.AssemblyInfo.cs
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Generics/Generics/obj/Debug/netcoreapp3.1/Generics.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Generics/Generics/obj/Debug/netcoreapp3.1/Generics.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Generics/Generics/obj/Debug/netcoreapp3.1/Generics.genruntimeconfig.cache

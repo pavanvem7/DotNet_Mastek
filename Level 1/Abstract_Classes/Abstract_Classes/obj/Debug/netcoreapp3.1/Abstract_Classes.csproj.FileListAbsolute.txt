@@ -1,0 +1,12 @@
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Abstract_Classes/Abstract_Classes/bin/Debug/netcoreapp3.1/Abstract_Classes.deps.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Abstract_Classes/Abstract_Classes/bin/Debug/netcoreapp3.1/Abstract_Classes.runtimeconfig.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Abstract_Classes/Abstract_Classes/bin/Debug/netcoreapp3.1/Abstract_Classes.runtimeconfig.dev.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Abstract_Classes/Abstract_Classes/bin/Debug/netcoreapp3.1/Abstract_Classes.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Abstract_Classes/Abstract_Classes/bin/Debug/netcoreapp3.1/Abstract_Classes.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Abstract_Classes/Abstract_Classes/obj/Debug/netcoreapp3.1/Abstract_Classes.csprojAssemblyReference.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Abstract_Classes/Abstract_Classes/obj/Debug/netcoreapp3.1/Abstract_Classes.csproj.CoreCompileInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Abstract_Classes/Abstract_Classes/obj/Debug/netcoreapp3.1/Abstract_Classes.AssemblyInfoInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Abstract_Classes/Abstract_Classes/obj/Debug/netcoreapp3.1/Abstract_Classes.AssemblyInfo.cs
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Abstract_Classes/Abstract_Classes/obj/Debug/netcoreapp3.1/Abstract_Classes.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Abstract_Classes/Abstract_Classes/obj/Debug/netcoreapp3.1/Abstract_Classes.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Abstract_Classes/Abstract_Classes/obj/Debug/netcoreapp3.1/Abstract_Classes.genruntimeconfig.cache

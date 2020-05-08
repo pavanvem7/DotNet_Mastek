@@ -1,0 +1,12 @@
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Exception_Handling/Exception_Handling/bin/Debug/netcoreapp3.1/Exception_Handling.deps.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Exception_Handling/Exception_Handling/bin/Debug/netcoreapp3.1/Exception_Handling.runtimeconfig.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Exception_Handling/Exception_Handling/bin/Debug/netcoreapp3.1/Exception_Handling.runtimeconfig.dev.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Exception_Handling/Exception_Handling/bin/Debug/netcoreapp3.1/Exception_Handling.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Exception_Handling/Exception_Handling/bin/Debug/netcoreapp3.1/Exception_Handling.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Exception_Handling/Exception_Handling/obj/Debug/netcoreapp3.1/Exception_Handling.csprojAssemblyReference.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Exception_Handling/Exception_Handling/obj/Debug/netcoreapp3.1/Exception_Handling.csproj.CoreCompileInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Exception_Handling/Exception_Handling/obj/Debug/netcoreapp3.1/Exception_Handling.AssemblyInfoInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Exception_Handling/Exception_Handling/obj/Debug/netcoreapp3.1/Exception_Handling.AssemblyInfo.cs
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Exception_Handling/Exception_Handling/obj/Debug/netcoreapp3.1/Exception_Handling.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Exception_Handling/Exception_Handling/obj/Debug/netcoreapp3.1/Exception_Handling.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Exception_Handling/Exception_Handling/obj/Debug/netcoreapp3.1/Exception_Handling.genruntimeconfig.cache

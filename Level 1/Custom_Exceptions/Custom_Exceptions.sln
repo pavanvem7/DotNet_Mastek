@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Custom_Exceptions", "Custom_Exceptions\Custom_Exceptions.csproj", "{2E5DDDA1-81B6-4485-B9DC-63BFDB43E60A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E5DDDA1-81B6-4485-B9DC-63BFDB43E60A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E5DDDA1-81B6-4485-B9DC-63BFDB43E60A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E5DDDA1-81B6-4485-B9DC-63BFDB43E60A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E5DDDA1-81B6-4485-B9DC-63BFDB43E60A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

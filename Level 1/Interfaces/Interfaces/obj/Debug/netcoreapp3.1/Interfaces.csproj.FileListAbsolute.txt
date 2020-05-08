@@ -1,0 +1,12 @@
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Interfaces/Interfaces/bin/Debug/netcoreapp3.1/Interfaces.deps.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Interfaces/Interfaces/bin/Debug/netcoreapp3.1/Interfaces.runtimeconfig.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Interfaces/Interfaces/bin/Debug/netcoreapp3.1/Interfaces.runtimeconfig.dev.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Interfaces/Interfaces/bin/Debug/netcoreapp3.1/Interfaces.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Interfaces/Interfaces/bin/Debug/netcoreapp3.1/Interfaces.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Interfaces/Interfaces/obj/Debug/netcoreapp3.1/Interfaces.csprojAssemblyReference.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Interfaces/Interfaces/obj/Debug/netcoreapp3.1/Interfaces.csproj.CoreCompileInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Interfaces/Interfaces/obj/Debug/netcoreapp3.1/Interfaces.AssemblyInfoInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Interfaces/Interfaces/obj/Debug/netcoreapp3.1/Interfaces.AssemblyInfo.cs
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Interfaces/Interfaces/obj/Debug/netcoreapp3.1/Interfaces.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Interfaces/Interfaces/obj/Debug/netcoreapp3.1/Interfaces.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Interfaces/Interfaces/obj/Debug/netcoreapp3.1/Interfaces.genruntimeconfig.cache

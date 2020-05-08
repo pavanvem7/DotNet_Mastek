@@ -1,0 +1,12 @@
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Structs/Structs/bin/Debug/netcoreapp3.1/Structs.deps.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Structs/Structs/bin/Debug/netcoreapp3.1/Structs.runtimeconfig.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Structs/Structs/bin/Debug/netcoreapp3.1/Structs.runtimeconfig.dev.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Structs/Structs/bin/Debug/netcoreapp3.1/Structs.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Structs/Structs/bin/Debug/netcoreapp3.1/Structs.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Structs/Structs/obj/Debug/netcoreapp3.1/Structs.csprojAssemblyReference.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Structs/Structs/obj/Debug/netcoreapp3.1/Structs.csproj.CoreCompileInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Structs/Structs/obj/Debug/netcoreapp3.1/Structs.AssemblyInfoInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Structs/Structs/obj/Debug/netcoreapp3.1/Structs.AssemblyInfo.cs
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Structs/Structs/obj/Debug/netcoreapp3.1/Structs.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Structs/Structs/obj/Debug/netcoreapp3.1/Structs.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Structs/Structs/obj/Debug/netcoreapp3.1/Structs.genruntimeconfig.cache

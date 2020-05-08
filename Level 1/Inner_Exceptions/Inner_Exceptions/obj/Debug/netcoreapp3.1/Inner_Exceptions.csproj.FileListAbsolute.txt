@@ -1,0 +1,12 @@
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Inner_Exceptions/Inner_Exceptions/bin/Debug/netcoreapp3.1/Inner_Exceptions.deps.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Inner_Exceptions/Inner_Exceptions/bin/Debug/netcoreapp3.1/Inner_Exceptions.runtimeconfig.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Inner_Exceptions/Inner_Exceptions/bin/Debug/netcoreapp3.1/Inner_Exceptions.runtimeconfig.dev.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Inner_Exceptions/Inner_Exceptions/bin/Debug/netcoreapp3.1/Inner_Exceptions.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Inner_Exceptions/Inner_Exceptions/bin/Debug/netcoreapp3.1/Inner_Exceptions.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Inner_Exceptions/Inner_Exceptions/obj/Debug/netcoreapp3.1/Inner_Exceptions.csprojAssemblyReference.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Inner_Exceptions/Inner_Exceptions/obj/Debug/netcoreapp3.1/Inner_Exceptions.csproj.CoreCompileInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Inner_Exceptions/Inner_Exceptions/obj/Debug/netcoreapp3.1/Inner_Exceptions.AssemblyInfoInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Inner_Exceptions/Inner_Exceptions/obj/Debug/netcoreapp3.1/Inner_Exceptions.AssemblyInfo.cs
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Inner_Exceptions/Inner_Exceptions/obj/Debug/netcoreapp3.1/Inner_Exceptions.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Inner_Exceptions/Inner_Exceptions/obj/Debug/netcoreapp3.1/Inner_Exceptions.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Inner_Exceptions/Inner_Exceptions/obj/Debug/netcoreapp3.1/Inner_Exceptions.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Enums/Enums/bin/Debug/netcoreapp3.1/Enums.deps.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Enums/Enums/bin/Debug/netcoreapp3.1/Enums.runtimeconfig.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Enums/Enums/bin/Debug/netcoreapp3.1/Enums.runtimeconfig.dev.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Enums/Enums/bin/Debug/netcoreapp3.1/Enums.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Enums/Enums/bin/Debug/netcoreapp3.1/Enums.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Enums/Enums/obj/Debug/netcoreapp3.1/Enums.csprojAssemblyReference.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Enums/Enums/obj/Debug/netcoreapp3.1/Enums.csproj.CoreCompileInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Enums/Enums/obj/Debug/netcoreapp3.1/Enums.AssemblyInfoInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Enums/Enums/obj/Debug/netcoreapp3.1/Enums.AssemblyInfo.cs
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Enums/Enums/obj/Debug/netcoreapp3.1/Enums.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Enums/Enums/obj/Debug/netcoreapp3.1/Enums.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Enums/Enums/obj/Debug/netcoreapp3.1/Enums.genruntimeconfig.cache

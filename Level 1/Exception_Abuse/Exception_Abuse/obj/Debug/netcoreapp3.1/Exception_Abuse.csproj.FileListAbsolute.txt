@@ -1,0 +1,12 @@
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Exception_Abuse/Exception_Abuse/bin/Debug/netcoreapp3.1/Exception_Abuse.deps.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Exception_Abuse/Exception_Abuse/bin/Debug/netcoreapp3.1/Exception_Abuse.runtimeconfig.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Exception_Abuse/Exception_Abuse/bin/Debug/netcoreapp3.1/Exception_Abuse.runtimeconfig.dev.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Exception_Abuse/Exception_Abuse/bin/Debug/netcoreapp3.1/Exception_Abuse.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Exception_Abuse/Exception_Abuse/bin/Debug/netcoreapp3.1/Exception_Abuse.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Exception_Abuse/Exception_Abuse/obj/Debug/netcoreapp3.1/Exception_Abuse.csprojAssemblyReference.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Exception_Abuse/Exception_Abuse/obj/Debug/netcoreapp3.1/Exception_Abuse.csproj.CoreCompileInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Exception_Abuse/Exception_Abuse/obj/Debug/netcoreapp3.1/Exception_Abuse.AssemblyInfoInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Exception_Abuse/Exception_Abuse/obj/Debug/netcoreapp3.1/Exception_Abuse.AssemblyInfo.cs
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Exception_Abuse/Exception_Abuse/obj/Debug/netcoreapp3.1/Exception_Abuse.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Exception_Abuse/Exception_Abuse/obj/Debug/netcoreapp3.1/Exception_Abuse.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Exception_Abuse/Exception_Abuse/obj/Debug/netcoreapp3.1/Exception_Abuse.genruntimeconfig.cache

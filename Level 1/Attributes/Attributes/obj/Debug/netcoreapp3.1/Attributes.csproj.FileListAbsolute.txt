@@ -1,0 +1,12 @@
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Attributes/Attributes/bin/Debug/netcoreapp3.1/Attributes.deps.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Attributes/Attributes/bin/Debug/netcoreapp3.1/Attributes.runtimeconfig.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Attributes/Attributes/bin/Debug/netcoreapp3.1/Attributes.runtimeconfig.dev.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Attributes/Attributes/bin/Debug/netcoreapp3.1/Attributes.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Attributes/Attributes/bin/Debug/netcoreapp3.1/Attributes.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Attributes/Attributes/obj/Debug/netcoreapp3.1/Attributes.csprojAssemblyReference.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Attributes/Attributes/obj/Debug/netcoreapp3.1/Attributes.csproj.CoreCompileInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Attributes/Attributes/obj/Debug/netcoreapp3.1/Attributes.AssemblyInfoInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Attributes/Attributes/obj/Debug/netcoreapp3.1/Attributes.AssemblyInfo.cs
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Attributes/Attributes/obj/Debug/netcoreapp3.1/Attributes.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Attributes/Attributes/obj/Debug/netcoreapp3.1/Attributes.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Attributes/Attributes/obj/Debug/netcoreapp3.1/Attributes.genruntimeconfig.cache

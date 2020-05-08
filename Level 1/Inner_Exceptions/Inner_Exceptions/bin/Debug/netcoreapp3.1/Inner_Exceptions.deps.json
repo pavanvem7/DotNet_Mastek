@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Inner_Exceptions/1.0.0": {
+        "runtime": {
+          "Inner_Exceptions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Inner_Exceptions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{0A75E1AA-09D6-408D-B3D9-9B22389131A1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exception_Abuse/Program.cs">
+    <Files>
+      <File FileName="Exception_Abuse/Program.cs" Line="48" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exception_Abuse" expanded="True">
+            <Node name="Exception_Abuse" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Exception__Abuse PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

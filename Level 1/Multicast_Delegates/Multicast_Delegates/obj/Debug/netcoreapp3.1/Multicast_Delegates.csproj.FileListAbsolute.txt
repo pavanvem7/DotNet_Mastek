@@ -1,0 +1,12 @@
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Multicast_Delegates/Multicast_Delegates/bin/Debug/netcoreapp3.1/Multicast_Delegates.deps.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Multicast_Delegates/Multicast_Delegates/bin/Debug/netcoreapp3.1/Multicast_Delegates.runtimeconfig.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Multicast_Delegates/Multicast_Delegates/bin/Debug/netcoreapp3.1/Multicast_Delegates.runtimeconfig.dev.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Multicast_Delegates/Multicast_Delegates/bin/Debug/netcoreapp3.1/Multicast_Delegates.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Multicast_Delegates/Multicast_Delegates/bin/Debug/netcoreapp3.1/Multicast_Delegates.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Multicast_Delegates/Multicast_Delegates/obj/Debug/netcoreapp3.1/Multicast_Delegates.csprojAssemblyReference.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Multicast_Delegates/Multicast_Delegates/obj/Debug/netcoreapp3.1/Multicast_Delegates.csproj.CoreCompileInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Multicast_Delegates/Multicast_Delegates/obj/Debug/netcoreapp3.1/Multicast_Delegates.AssemblyInfoInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Multicast_Delegates/Multicast_Delegates/obj/Debug/netcoreapp3.1/Multicast_Delegates.AssemblyInfo.cs
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Multicast_Delegates/Multicast_Delegates/obj/Debug/netcoreapp3.1/Multicast_Delegates.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Multicast_Delegates/Multicast_Delegates/obj/Debug/netcoreapp3.1/Multicast_Delegates.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Multicast_Delegates/Multicast_Delegates/obj/Debug/netcoreapp3.1/Multicast_Delegates.genruntimeconfig.cache

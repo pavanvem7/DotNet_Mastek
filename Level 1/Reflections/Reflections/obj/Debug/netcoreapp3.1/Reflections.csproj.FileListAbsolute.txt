@@ -1,0 +1,12 @@
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Reflections/Reflections/bin/Debug/netcoreapp3.1/Reflections.deps.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Reflections/Reflections/bin/Debug/netcoreapp3.1/Reflections.runtimeconfig.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Reflections/Reflections/bin/Debug/netcoreapp3.1/Reflections.runtimeconfig.dev.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Reflections/Reflections/bin/Debug/netcoreapp3.1/Reflections.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Reflections/Reflections/bin/Debug/netcoreapp3.1/Reflections.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Reflections/Reflections/obj/Debug/netcoreapp3.1/Reflections.csprojAssemblyReference.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Reflections/Reflections/obj/Debug/netcoreapp3.1/Reflections.csproj.CoreCompileInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Reflections/Reflections/obj/Debug/netcoreapp3.1/Reflections.AssemblyInfoInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Reflections/Reflections/obj/Debug/netcoreapp3.1/Reflections.AssemblyInfo.cs
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Reflections/Reflections/obj/Debug/netcoreapp3.1/Reflections.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Reflections/Reflections/obj/Debug/netcoreapp3.1/Reflections.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Reflections/Reflections/obj/Debug/netcoreapp3.1/Reflections.genruntimeconfig.cache
