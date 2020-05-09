@@ -1,0 +1,12 @@
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Func_Delegate/Func_Delegate/bin/Debug/netcoreapp3.1/Func_Delegate.deps.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Func_Delegate/Func_Delegate/bin/Debug/netcoreapp3.1/Func_Delegate.runtimeconfig.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Func_Delegate/Func_Delegate/bin/Debug/netcoreapp3.1/Func_Delegate.runtimeconfig.dev.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Func_Delegate/Func_Delegate/bin/Debug/netcoreapp3.1/Func_Delegate.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Func_Delegate/Func_Delegate/bin/Debug/netcoreapp3.1/Func_Delegate.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Func_Delegate/Func_Delegate/obj/Debug/netcoreapp3.1/Func_Delegate.csprojAssemblyReference.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Func_Delegate/Func_Delegate/obj/Debug/netcoreapp3.1/Func_Delegate.csproj.CoreCompileInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Func_Delegate/Func_Delegate/obj/Debug/netcoreapp3.1/Func_Delegate.AssemblyInfoInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Func_Delegate/Func_Delegate/obj/Debug/netcoreapp3.1/Func_Delegate.AssemblyInfo.cs
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Func_Delegate/Func_Delegate/obj/Debug/netcoreapp3.1/Func_Delegate.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Func_Delegate/Func_Delegate/obj/Debug/netcoreapp3.1/Func_Delegate.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Func_Delegate/Func_Delegate/obj/Debug/netcoreapp3.1/Func_Delegate.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Performance_MultiThread/Performance_MultiThread/bin/Debug/netcoreapp3.1/Performance_MultiThread.deps.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Performance_MultiThread/Performance_MultiThread/bin/Debug/netcoreapp3.1/Performance_MultiThread.runtimeconfig.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Performance_MultiThread/Performance_MultiThread/bin/Debug/netcoreapp3.1/Performance_MultiThread.runtimeconfig.dev.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Performance_MultiThread/Performance_MultiThread/bin/Debug/netcoreapp3.1/Performance_MultiThread.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Performance_MultiThread/Performance_MultiThread/bin/Debug/netcoreapp3.1/Performance_MultiThread.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Performance_MultiThread/Performance_MultiThread/obj/Debug/netcoreapp3.1/Performance_MultiThread.csprojAssemblyReference.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Performance_MultiThread/Performance_MultiThread/obj/Debug/netcoreapp3.1/Performance_MultiThread.csproj.CoreCompileInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Performance_MultiThread/Performance_MultiThread/obj/Debug/netcoreapp3.1/Performance_MultiThread.AssemblyInfoInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Performance_MultiThread/Performance_MultiThread/obj/Debug/netcoreapp3.1/Performance_MultiThread.AssemblyInfo.cs
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Performance_MultiThread/Performance_MultiThread/obj/Debug/netcoreapp3.1/Performance_MultiThread.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Performance_MultiThread/Performance_MultiThread/obj/Debug/netcoreapp3.1/Performance_MultiThread.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Performance_MultiThread/Performance_MultiThread/obj/Debug/netcoreapp3.1/Performance_MultiThread.genruntimeconfig.cache

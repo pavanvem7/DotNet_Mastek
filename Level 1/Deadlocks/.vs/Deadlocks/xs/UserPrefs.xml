@@ -1,13 +1,14 @@
-﻿<Properties StartupConfiguration="{5266782A-E84D-4BAD-B64D-9AF0ABBE6ED9}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ThreadJoin/Program.cs">
+﻿<Properties StartupConfiguration="{49E8A11A-171E-4573-84A0-C138CA005074}|Default">
+  <MonoDevelop.Ide.ItemProperties.Deadlocks PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Deadlocks/Program.cs">
     <Files>
-      <File FileName="ThreadJoin/Program.cs" Line="2" Column="24" />
+      <File FileName="Deadlocks/Program.cs" Line="126" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ThreadJoin" expanded="True">
-            <Node name="ThreadJoin" expanded="True">
+          <Node name="Deadlocks" expanded="True">
+            <Node name="Deadlocks" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -21,5 +22,4 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.ThreadJoin PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

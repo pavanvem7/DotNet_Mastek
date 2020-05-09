@@ -1,13 +1,14 @@
-﻿<Properties StartupConfiguration="{5266782A-E84D-4BAD-B64D-9AF0ABBE6ED9}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ThreadJoin/Program.cs">
+﻿<Properties StartupConfiguration="{4E3050B5-6A2C-48CE-8F06-DF5B313D1B30}|Default">
+  <MonoDevelop.Ide.ItemProperties.Func__Delegate PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Func_Delegate/Program.cs">
     <Files>
-      <File FileName="ThreadJoin/Program.cs" Line="2" Column="24" />
+      <File FileName="Func_Delegate/Program.cs" Line="19" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ThreadJoin" expanded="True">
-            <Node name="ThreadJoin" expanded="True">
+          <Node name="Func_Delegate" expanded="True">
+            <Node name="Func_Delegate" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -21,5 +22,4 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.ThreadJoin PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

@@ -1,0 +1,12 @@
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Deadlocks/Deadlocks/bin/Debug/netcoreapp3.1/Deadlocks.deps.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Deadlocks/Deadlocks/bin/Debug/netcoreapp3.1/Deadlocks.runtimeconfig.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Deadlocks/Deadlocks/bin/Debug/netcoreapp3.1/Deadlocks.runtimeconfig.dev.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Deadlocks/Deadlocks/bin/Debug/netcoreapp3.1/Deadlocks.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Deadlocks/Deadlocks/bin/Debug/netcoreapp3.1/Deadlocks.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Deadlocks/Deadlocks/obj/Debug/netcoreapp3.1/Deadlocks.csprojAssemblyReference.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Deadlocks/Deadlocks/obj/Debug/netcoreapp3.1/Deadlocks.csproj.CoreCompileInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Deadlocks/Deadlocks/obj/Debug/netcoreapp3.1/Deadlocks.AssemblyInfoInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Deadlocks/Deadlocks/obj/Debug/netcoreapp3.1/Deadlocks.AssemblyInfo.cs
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Deadlocks/Deadlocks/obj/Debug/netcoreapp3.1/Deadlocks.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Deadlocks/Deadlocks/obj/Debug/netcoreapp3.1/Deadlocks.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Deadlocks/Deadlocks/obj/Debug/netcoreapp3.1/Deadlocks.genruntimeconfig.cache

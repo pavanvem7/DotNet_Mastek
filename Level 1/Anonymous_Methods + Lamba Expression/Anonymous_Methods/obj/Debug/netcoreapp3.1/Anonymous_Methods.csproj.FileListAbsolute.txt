@@ -1,0 +1,12 @@
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Anonymous_Methods/Anonymous_Methods/bin/Debug/netcoreapp3.1/Anonymous_Methods.deps.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Anonymous_Methods/Anonymous_Methods/bin/Debug/netcoreapp3.1/Anonymous_Methods.runtimeconfig.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Anonymous_Methods/Anonymous_Methods/bin/Debug/netcoreapp3.1/Anonymous_Methods.runtimeconfig.dev.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Anonymous_Methods/Anonymous_Methods/bin/Debug/netcoreapp3.1/Anonymous_Methods.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Anonymous_Methods/Anonymous_Methods/bin/Debug/netcoreapp3.1/Anonymous_Methods.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Anonymous_Methods/Anonymous_Methods/obj/Debug/netcoreapp3.1/Anonymous_Methods.csprojAssemblyReference.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Anonymous_Methods/Anonymous_Methods/obj/Debug/netcoreapp3.1/Anonymous_Methods.csproj.CoreCompileInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Anonymous_Methods/Anonymous_Methods/obj/Debug/netcoreapp3.1/Anonymous_Methods.AssemblyInfoInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Anonymous_Methods/Anonymous_Methods/obj/Debug/netcoreapp3.1/Anonymous_Methods.AssemblyInfo.cs
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Anonymous_Methods/Anonymous_Methods/obj/Debug/netcoreapp3.1/Anonymous_Methods.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Anonymous_Methods/Anonymous_Methods/obj/Debug/netcoreapp3.1/Anonymous_Methods.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Anonymous_Methods/Anonymous_Methods/obj/Debug/netcoreapp3.1/Anonymous_Methods.genruntimeconfig.cache

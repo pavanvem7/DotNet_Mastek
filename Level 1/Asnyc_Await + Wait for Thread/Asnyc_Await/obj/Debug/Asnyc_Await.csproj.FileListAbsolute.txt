@@ -1,0 +1,10 @@
+C:\Users\Praveen\Desktop\Asnyc_Await\Asnyc_Await\bin\Debug\Asnyc_Await.exe.config
+C:\Users\Praveen\Desktop\Asnyc_Await\Asnyc_Await\bin\Debug\Asnyc_Await.exe
+C:\Users\Praveen\Desktop\Asnyc_Await\Asnyc_Await\bin\Debug\Asnyc_Await.pdb
+C:\Users\Praveen\Desktop\Asnyc_Await\Asnyc_Await\obj\Debug\Asnyc_Await.csprojAssemblyReference.cache
+C:\Users\Praveen\Desktop\Asnyc_Await\Asnyc_Await\obj\Debug\Asnyc_Await.Form1.resources
+C:\Users\Praveen\Desktop\Asnyc_Await\Asnyc_Await\obj\Debug\Asnyc_Await.Properties.Resources.resources
+C:\Users\Praveen\Desktop\Asnyc_Await\Asnyc_Await\obj\Debug\Asnyc_Await.csproj.GenerateResource.cache
+C:\Users\Praveen\Desktop\Asnyc_Await\Asnyc_Await\obj\Debug\Asnyc_Await.csproj.CoreCompileInputs.cache
+C:\Users\Praveen\Desktop\Asnyc_Await\Asnyc_Await\obj\Debug\Asnyc_Await.exe
+C:\Users\Praveen\Desktop\Asnyc_Await\Asnyc_Await\obj\Debug\Asnyc_Await.pdb
