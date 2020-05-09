@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{EFC87D89-754B-4AC9-8C9F-AE9B124CE7B0}|Default">
+  <MonoDevelop.Ide.ItemProperties.Partial__Methods PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Partial_Methods/Program.cs">
+    <Files>
+      <File FileName="Partial_Methods/Program.cs" Line="10" Column="31" />
+      <File FileName="Partial_Methods/PartialClassFileOne.cs" Line="16" Column="2" />
+      <File FileName="Partial_Methods/PartialClassFileTwo.cs" Line="12" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Partial_Methods" expanded="True">
+            <Node name="Partial_Methods" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,12 @@
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Dictionary/Dictionary/bin/Debug/netcoreapp3.1/Dictionary.deps.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Dictionary/Dictionary/bin/Debug/netcoreapp3.1/Dictionary.runtimeconfig.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Dictionary/Dictionary/bin/Debug/netcoreapp3.1/Dictionary.runtimeconfig.dev.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Dictionary/Dictionary/bin/Debug/netcoreapp3.1/Dictionary.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Dictionary/Dictionary/bin/Debug/netcoreapp3.1/Dictionary.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Dictionary/Dictionary/obj/Debug/netcoreapp3.1/Dictionary.csprojAssemblyReference.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Dictionary/Dictionary/obj/Debug/netcoreapp3.1/Dictionary.csproj.CoreCompileInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Dictionary/Dictionary/obj/Debug/netcoreapp3.1/Dictionary.AssemblyInfoInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Dictionary/Dictionary/obj/Debug/netcoreapp3.1/Dictionary.AssemblyInfo.cs
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Dictionary/Dictionary/obj/Debug/netcoreapp3.1/Dictionary.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Dictionary/Dictionary/obj/Debug/netcoreapp3.1/Dictionary.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Dictionary/Dictionary/obj/Debug/netcoreapp3.1/Dictionary.genruntimeconfig.cache

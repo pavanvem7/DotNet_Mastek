@@ -1,0 +1,6 @@
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Indexers/Indexers/bin/Indexers.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Indexers/Indexers/bin/Indexers.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Indexers/Indexers/obj/Debug/Indexers.csprojAssemblyReference.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Indexers/Indexers/obj/Debug/Indexers.csproj.CoreCompileInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Indexers/Indexers/obj/Debug/Indexers.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Indexers/Indexers/obj/Debug/Indexers.pdb

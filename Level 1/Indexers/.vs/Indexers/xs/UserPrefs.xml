@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{80FA8051-B540-4D3D-A5CC-136495C53CF5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Indexers/Default.aspx.cs">
+    <Files>
+      <File FileName="Indexers/Default.aspx" Line="7" Column="7" />
+      <File FileName="Indexers/Company.cs" Line="4" Column="18" />
+      <File FileName="Indexers/Default.aspx.cs" Line="32" Column="75" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Indexers" expanded="True">
+            <Node name="Indexers" expanded="True">
+              <Node name="Default.aspx" expanded="True">
+                <Node name="Default.aspx.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Indexers PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

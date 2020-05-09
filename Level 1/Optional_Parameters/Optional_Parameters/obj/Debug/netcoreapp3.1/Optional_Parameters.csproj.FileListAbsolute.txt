@@ -1,0 +1,12 @@
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Optional_Parameters/Optional_Parameters/obj/Debug/netcoreapp3.1/Optional_Parameters.csprojAssemblyReference.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Optional_Parameters/Optional_Parameters/obj/Debug/netcoreapp3.1/Optional_Parameters.csproj.CoreCompileInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Optional_Parameters/Optional_Parameters/obj/Debug/netcoreapp3.1/Optional_Parameters.AssemblyInfoInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Optional_Parameters/Optional_Parameters/obj/Debug/netcoreapp3.1/Optional_Parameters.AssemblyInfo.cs
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Optional_Parameters/Optional_Parameters/bin/Debug/netcoreapp3.1/Optional_Parameters.deps.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Optional_Parameters/Optional_Parameters/bin/Debug/netcoreapp3.1/Optional_Parameters.runtimeconfig.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Optional_Parameters/Optional_Parameters/bin/Debug/netcoreapp3.1/Optional_Parameters.runtimeconfig.dev.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Optional_Parameters/Optional_Parameters/bin/Debug/netcoreapp3.1/Optional_Parameters.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Optional_Parameters/Optional_Parameters/bin/Debug/netcoreapp3.1/Optional_Parameters.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Optional_Parameters/Optional_Parameters/obj/Debug/netcoreapp3.1/Optional_Parameters.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Optional_Parameters/Optional_Parameters/obj/Debug/netcoreapp3.1/Optional_Parameters.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Optional_Parameters/Optional_Parameters/obj/Debug/netcoreapp3.1/Optional_Parameters.genruntimeconfig.cache

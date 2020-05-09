@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{598513E1-D3B1-4EE4-BF2B-D326DACD1189}|Default">
+  <MonoDevelop.Ide.ItemProperties.Sort__List__Complex PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sort_List_Complex/Program.cs">
+    <Files>
+      <File FileName="Sort_List_Complex/Program.cs" Line="45" Column="65" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Sort_List_Complex" expanded="True">
+            <Node name="Sort_List_Complex" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

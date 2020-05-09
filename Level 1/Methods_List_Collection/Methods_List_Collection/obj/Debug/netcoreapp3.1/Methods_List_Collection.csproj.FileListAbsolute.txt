@@ -1,0 +1,12 @@
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Methods_List_Collection/Methods_List_Collection/bin/Debug/netcoreapp3.1/Methods_List_Collection.deps.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Methods_List_Collection/Methods_List_Collection/bin/Debug/netcoreapp3.1/Methods_List_Collection.runtimeconfig.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Methods_List_Collection/Methods_List_Collection/bin/Debug/netcoreapp3.1/Methods_List_Collection.runtimeconfig.dev.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Methods_List_Collection/Methods_List_Collection/bin/Debug/netcoreapp3.1/Methods_List_Collection.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Methods_List_Collection/Methods_List_Collection/bin/Debug/netcoreapp3.1/Methods_List_Collection.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Methods_List_Collection/Methods_List_Collection/obj/Debug/netcoreapp3.1/Methods_List_Collection.csprojAssemblyReference.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Methods_List_Collection/Methods_List_Collection/obj/Debug/netcoreapp3.1/Methods_List_Collection.csproj.CoreCompileInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Methods_List_Collection/Methods_List_Collection/obj/Debug/netcoreapp3.1/Methods_List_Collection.AssemblyInfoInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Methods_List_Collection/Methods_List_Collection/obj/Debug/netcoreapp3.1/Methods_List_Collection.AssemblyInfo.cs
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Methods_List_Collection/Methods_List_Collection/obj/Debug/netcoreapp3.1/Methods_List_Collection.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Methods_List_Collection/Methods_List_Collection/obj/Debug/netcoreapp3.1/Methods_List_Collection.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Methods_List_Collection/Methods_List_Collection/obj/Debug/netcoreapp3.1/Methods_List_Collection.genruntimeconfig.cache

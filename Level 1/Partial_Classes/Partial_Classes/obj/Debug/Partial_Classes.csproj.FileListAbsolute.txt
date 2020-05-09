@@ -1,0 +1,6 @@
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Partial_Classes/Partial_Classes/bin/Partial_Classes.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Partial_Classes/Partial_Classes/bin/Partial_Classes.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Partial_Classes/Partial_Classes/obj/Debug/Partial_Classes.csprojAssemblyReference.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Partial_Classes/Partial_Classes/obj/Debug/Partial_Classes.csproj.CoreCompileInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Partial_Classes/Partial_Classes/obj/Debug/Partial_Classes.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Partial_Classes/Partial_Classes/obj/Debug/Partial_Classes.pdb

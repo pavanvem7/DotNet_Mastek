@@ -1,0 +1,12 @@
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Sort_List_Simple/Sort_List_Simple/bin/Debug/netcoreapp3.1/Sort_List_Simple.deps.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Sort_List_Simple/Sort_List_Simple/bin/Debug/netcoreapp3.1/Sort_List_Simple.runtimeconfig.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Sort_List_Simple/Sort_List_Simple/bin/Debug/netcoreapp3.1/Sort_List_Simple.runtimeconfig.dev.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Sort_List_Simple/Sort_List_Simple/bin/Debug/netcoreapp3.1/Sort_List_Simple.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Sort_List_Simple/Sort_List_Simple/bin/Debug/netcoreapp3.1/Sort_List_Simple.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Sort_List_Simple/Sort_List_Simple/obj/Debug/netcoreapp3.1/Sort_List_Simple.csprojAssemblyReference.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Sort_List_Simple/Sort_List_Simple/obj/Debug/netcoreapp3.1/Sort_List_Simple.csproj.CoreCompileInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Sort_List_Simple/Sort_List_Simple/obj/Debug/netcoreapp3.1/Sort_List_Simple.AssemblyInfoInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Sort_List_Simple/Sort_List_Simple/obj/Debug/netcoreapp3.1/Sort_List_Simple.AssemblyInfo.cs
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Sort_List_Simple/Sort_List_Simple/obj/Debug/netcoreapp3.1/Sort_List_Simple.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Sort_List_Simple/Sort_List_Simple/obj/Debug/netcoreapp3.1/Sort_List_Simple.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Sort_List_Simple/Sort_List_Simple/obj/Debug/netcoreapp3.1/Sort_List_Simple.genruntimeconfig.cache

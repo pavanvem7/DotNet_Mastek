@@ -1,0 +1,12 @@
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Partial_Methods/Partial_Methods/bin/Debug/netcoreapp3.1/Partial_Methods.deps.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Partial_Methods/Partial_Methods/bin/Debug/netcoreapp3.1/Partial_Methods.runtimeconfig.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Partial_Methods/Partial_Methods/bin/Debug/netcoreapp3.1/Partial_Methods.runtimeconfig.dev.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Partial_Methods/Partial_Methods/bin/Debug/netcoreapp3.1/Partial_Methods.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Partial_Methods/Partial_Methods/bin/Debug/netcoreapp3.1/Partial_Methods.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Partial_Methods/Partial_Methods/obj/Debug/netcoreapp3.1/Partial_Methods.csprojAssemblyReference.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Partial_Methods/Partial_Methods/obj/Debug/netcoreapp3.1/Partial_Methods.csproj.CoreCompileInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Partial_Methods/Partial_Methods/obj/Debug/netcoreapp3.1/Partial_Methods.AssemblyInfoInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Partial_Methods/Partial_Methods/obj/Debug/netcoreapp3.1/Partial_Methods.AssemblyInfo.cs
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Partial_Methods/Partial_Methods/obj/Debug/netcoreapp3.1/Partial_Methods.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Partial_Methods/Partial_Methods/obj/Debug/netcoreapp3.1/Partial_Methods.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Partial_Methods/Partial_Methods/obj/Debug/netcoreapp3.1/Partial_Methods.genruntimeconfig.cache

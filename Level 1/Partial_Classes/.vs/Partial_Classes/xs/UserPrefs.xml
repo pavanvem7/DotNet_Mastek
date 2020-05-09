@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{39FF36FA-D96A-489C-8F4F-48D75CF8F1CA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Partial_Classes/Default.aspx.cs">
+    <Files>
+      <File FileName="Partial_Classes/Default.aspx" Line="7" Column="7" />
+      <File FileName="Partial_Classes/Default.aspx.cs" Line="28" Column="1" />
+      <File FileName="Partial_Classes/customer.cs" Line="25" Column="10" />
+      <File FileName="Partial_Classes/PartialCustomerOne.cs" Line="21" Column="2" />
+      <File FileName="Partial_Classes/PartialCustomerTwo.cs" Line="11" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Partial_Classes" expanded="True">
+            <Node name="Partial_Classes" expanded="True">
+              <Node name="Default.aspx" expanded="True">
+                <Node name="Default.aspx.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Partial__Classes PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
