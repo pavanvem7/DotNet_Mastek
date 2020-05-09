@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Passing_Data_Thread/1.0.0": {
+        "runtime": {
+          "Passing_Data_Thread.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Passing_Data_Thread/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

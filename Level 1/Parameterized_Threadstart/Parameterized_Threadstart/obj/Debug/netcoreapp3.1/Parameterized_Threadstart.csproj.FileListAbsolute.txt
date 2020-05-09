@@ -1,0 +1,12 @@
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Parameterized_Threadstart/Parameterized_Threadstart/bin/Debug/netcoreapp3.1/Parameterized_Threadstart.deps.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Parameterized_Threadstart/Parameterized_Threadstart/bin/Debug/netcoreapp3.1/Parameterized_Threadstart.runtimeconfig.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Parameterized_Threadstart/Parameterized_Threadstart/bin/Debug/netcoreapp3.1/Parameterized_Threadstart.runtimeconfig.dev.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Parameterized_Threadstart/Parameterized_Threadstart/bin/Debug/netcoreapp3.1/Parameterized_Threadstart.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Parameterized_Threadstart/Parameterized_Threadstart/bin/Debug/netcoreapp3.1/Parameterized_Threadstart.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Parameterized_Threadstart/Parameterized_Threadstart/obj/Debug/netcoreapp3.1/Parameterized_Threadstart.csprojAssemblyReference.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Parameterized_Threadstart/Parameterized_Threadstart/obj/Debug/netcoreapp3.1/Parameterized_Threadstart.csproj.CoreCompileInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Parameterized_Threadstart/Parameterized_Threadstart/obj/Debug/netcoreapp3.1/Parameterized_Threadstart.AssemblyInfoInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Parameterized_Threadstart/Parameterized_Threadstart/obj/Debug/netcoreapp3.1/Parameterized_Threadstart.AssemblyInfo.cs
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Parameterized_Threadstart/Parameterized_Threadstart/obj/Debug/netcoreapp3.1/Parameterized_Threadstart.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Parameterized_Threadstart/Parameterized_Threadstart/obj/Debug/netcoreapp3.1/Parameterized_Threadstart.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Parameterized_Threadstart/Parameterized_Threadstart/obj/Debug/netcoreapp3.1/Parameterized_Threadstart.genruntimeconfig.cache

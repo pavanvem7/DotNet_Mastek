@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{38686919-3048-492C-93DF-DE17FE36F2AA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Thread_CallBack/Program.cs">
+    <Files>
+      <File FileName="Thread_CallBack/Program.cs" Line="2" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Thread_CallBack" expanded="True">
+            <Node name="Thread_CallBack" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Thread__CallBack PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{EBA9B644-4F27-4A06-A45C-8FB913ACABCA}|Default">
+  <MonoDevelop.Ide.ItemProperties.Passing__Data__Thread PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Passing_Data_Thread/Program.cs">
+    <Files>
+      <File FileName="Passing_Data_Thread/Program.cs" Line="2" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Passing_Data_Thread" expanded="True">
+            <Node name="Passing_Data_Thread" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,12 @@
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/ThreadJoin/ThreadJoin/bin/Debug/netcoreapp3.1/ThreadJoin.deps.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/ThreadJoin/ThreadJoin/bin/Debug/netcoreapp3.1/ThreadJoin.runtimeconfig.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/ThreadJoin/ThreadJoin/bin/Debug/netcoreapp3.1/ThreadJoin.runtimeconfig.dev.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/ThreadJoin/ThreadJoin/bin/Debug/netcoreapp3.1/ThreadJoin.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/ThreadJoin/ThreadJoin/bin/Debug/netcoreapp3.1/ThreadJoin.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/ThreadJoin/ThreadJoin/obj/Debug/netcoreapp3.1/ThreadJoin.csprojAssemblyReference.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/ThreadJoin/ThreadJoin/obj/Debug/netcoreapp3.1/ThreadJoin.csproj.CoreCompileInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/ThreadJoin/ThreadJoin/obj/Debug/netcoreapp3.1/ThreadJoin.AssemblyInfoInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/ThreadJoin/ThreadJoin/obj/Debug/netcoreapp3.1/ThreadJoin.AssemblyInfo.cs
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/ThreadJoin/ThreadJoin/obj/Debug/netcoreapp3.1/ThreadJoin.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/ThreadJoin/ThreadJoin/obj/Debug/netcoreapp3.1/ThreadJoin.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/ThreadJoin/ThreadJoin/obj/Debug/netcoreapp3.1/ThreadJoin.genruntimeconfig.cache

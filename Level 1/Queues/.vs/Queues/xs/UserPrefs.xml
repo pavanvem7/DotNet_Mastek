@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{0E32EDF8-3434-42A7-9615-85A781812002}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Queues/Program.cs">
+    <Files>
+      <File FileName="Queues/Program.cs" Line="110" Column="143" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Queues" expanded="True">
+            <Node name="Queues" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Queues PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

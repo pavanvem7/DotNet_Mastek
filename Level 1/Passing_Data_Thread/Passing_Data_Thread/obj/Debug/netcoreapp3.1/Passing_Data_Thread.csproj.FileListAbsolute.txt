@@ -1,0 +1,12 @@
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Passing_Data_Thread/Passing_Data_Thread/bin/Debug/netcoreapp3.1/Passing_Data_Thread.deps.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Passing_Data_Thread/Passing_Data_Thread/bin/Debug/netcoreapp3.1/Passing_Data_Thread.runtimeconfig.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Passing_Data_Thread/Passing_Data_Thread/bin/Debug/netcoreapp3.1/Passing_Data_Thread.runtimeconfig.dev.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Passing_Data_Thread/Passing_Data_Thread/bin/Debug/netcoreapp3.1/Passing_Data_Thread.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Passing_Data_Thread/Passing_Data_Thread/bin/Debug/netcoreapp3.1/Passing_Data_Thread.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Passing_Data_Thread/Passing_Data_Thread/obj/Debug/netcoreapp3.1/Passing_Data_Thread.csprojAssemblyReference.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Passing_Data_Thread/Passing_Data_Thread/obj/Debug/netcoreapp3.1/Passing_Data_Thread.csproj.CoreCompileInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Passing_Data_Thread/Passing_Data_Thread/obj/Debug/netcoreapp3.1/Passing_Data_Thread.AssemblyInfoInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Passing_Data_Thread/Passing_Data_Thread/obj/Debug/netcoreapp3.1/Passing_Data_Thread.AssemblyInfo.cs
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Passing_Data_Thread/Passing_Data_Thread/obj/Debug/netcoreapp3.1/Passing_Data_Thread.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Passing_Data_Thread/Passing_Data_Thread/obj/Debug/netcoreapp3.1/Passing_Data_Thread.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Passing_Data_Thread/Passing_Data_Thread/obj/Debug/netcoreapp3.1/Passing_Data_Thread.genruntimeconfig.cache

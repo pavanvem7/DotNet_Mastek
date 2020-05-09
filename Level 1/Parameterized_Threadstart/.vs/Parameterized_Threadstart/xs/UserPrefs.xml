@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{E7B27205-CE51-48C3-B789-BB572112BFDD}|Default">
+  <MonoDevelop.Ide.ItemProperties.Parameterized__Threadstart PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Parameterized_Threadstart/Program.cs">
+    <Files>
+      <File FileName="Parameterized_Threadstart/Program.cs" Line="33" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Parameterized_Threadstart" expanded="True">
+            <Node name="Parameterized_Threadstart" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

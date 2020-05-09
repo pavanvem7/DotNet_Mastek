@@ -1,0 +1,12 @@
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Thread_CallBack/Thread_CallBack/bin/Debug/netcoreapp3.1/Thread_CallBack.deps.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Thread_CallBack/Thread_CallBack/bin/Debug/netcoreapp3.1/Thread_CallBack.runtimeconfig.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Thread_CallBack/Thread_CallBack/bin/Debug/netcoreapp3.1/Thread_CallBack.runtimeconfig.dev.json
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Thread_CallBack/Thread_CallBack/bin/Debug/netcoreapp3.1/Thread_CallBack.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Thread_CallBack/Thread_CallBack/bin/Debug/netcoreapp3.1/Thread_CallBack.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Thread_CallBack/Thread_CallBack/obj/Debug/netcoreapp3.1/Thread_CallBack.csprojAssemblyReference.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Thread_CallBack/Thread_CallBack/obj/Debug/netcoreapp3.1/Thread_CallBack.csproj.CoreCompileInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Thread_CallBack/Thread_CallBack/obj/Debug/netcoreapp3.1/Thread_CallBack.AssemblyInfoInputs.cache
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Thread_CallBack/Thread_CallBack/obj/Debug/netcoreapp3.1/Thread_CallBack.AssemblyInfo.cs
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Thread_CallBack/Thread_CallBack/obj/Debug/netcoreapp3.1/Thread_CallBack.dll
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Thread_CallBack/Thread_CallBack/obj/Debug/netcoreapp3.1/Thread_CallBack.pdb
+/Users/pavanvemula/Documents/Mastek_Course/Level 1/Thread_CallBack/Thread_CallBack/obj/Debug/netcoreapp3.1/Thread_CallBack.genruntimeconfig.cache
